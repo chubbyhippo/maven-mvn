@@ -7,3 +7,6 @@ mvn wrapper:wrapper
 ```
 mvn dependency:analyze
 ```
+```
+mvn dependency:analyze-only
+```
