@@ -5,6 +5,9 @@ mvn wrapper:wrapper
 ```
 ## list
 ```shell
+mvn dependency:list
+```
+```shell
 mvn versions:display-dependency-updates
 ```
 ## analyze unused dependencies
